@@ -1,0 +1,40 @@
+Luxembourg - published administrative guidance on immigration case handling
+Checked 2026-11-14.
+
+Result: almost nothing. The Direction générale de l'immigration (DGIM, since 2023
+part of the Ministère des Affaires intérieures) publishes no procedures manual,
+notes de service, instructions or lignes directrices for its own case officers.
+The only published instructions are ministerial circulars to the communes, which
+handle arrival declarations, registration certificates for EU citizens and entries
+in the population register. The immigration-related ones are saved here (see
+index.tsv); several reproduce or annex DGIM instructions (e.g. 2025-044 with the
+DGIM table of registration cases, 2026-076 on the replacement of the temporary
+residence authorisation by a long-stay visa).
+
+Sources checked
+- https://maint.gouvernement.lu/fr/circulaires.html - circulars to the communal
+  sector, 2023 onwards (441 circulars on all subjects; listing read through the
+  page's own search service /ctie/searchresults) - immigration subset selected by
+  title/description.
+- https://maint.gouvernement.lu/fr/circulaires-old.html - same, 2019-2022
+  (about 1,200 PDFs incl. annexes) - immigration subset selected by title.
+  Circulars before 2019 are not published.
+- https://maint.gouvernement.lu/fr/le-ministere/dgim.html and sub-pages
+  (Législations, Traitement des données): legal texts and statistics only; for
+  procedures the page refers to guichet.public.lu.
+- https://mae.gouvernement.lu (former home of the Direction de l'immigration):
+  nothing on immigration any more.
+- https://guichet.public.lu/fr/citoyens/immigration.html: applicant-facing
+  procedure descriptions, forms and explanatory notes - not downloaded.
+- Legilux (https://legilux.public.lu, SPARQL endpoint
+  https://data.legilux.public.lu/sparqlendpoint): document types "circulaire
+  ministérielle" (CMIN) and "instruction ministérielle" (IMIN) searched by title
+  for étranger / immigration / séjour / asile / réfugié / protection internationale /
+  visa / passeport etc.: no immigration circular or instruction later than the
+  19th century is published there.
+
+Left out on purpose (same circular series, not about residence procedure):
+calls for integration projects, reception/housing capacity for applicants for
+international protection, schooling of Ukrainian children, nationality law
+(2023-151, 2025-038), general population-register rules (3819, 2025-016),
+Brexit parking cards and the Brexit adjustment reserve.
